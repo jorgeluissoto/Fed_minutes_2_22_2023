@@ -1,0 +1,33 @@
+Return a list of the sentiment of each sentence in the following text:
+
+
+sentence number|sentence text|sentiment
+1|The Committee unanimously approved a new governance document for open market operations and foreign currency transactions.|positive
+2|All participants indicated support for the Statement on Longer-Run Goals and Monetary Policy Strategy, and the Committee voted unanimously to reaffirm it without revision.|positive
+3|The manager pro tem reported that money market rates were stable over the period, with the year-end passing smoothly.|positive
+4|Consumer price inflation eased in November and December but remained elevated.|negative
+5|Total PCE price inflation was 2.3 percent over the 12 months ending in December.|positive
+6|Inflation decreased in December, with core PCE price inflation dropping 0.7 percentage points from October.|positive
+7|Real GDP growth was bolstered by a large gain in inventory investment and a notable contribution from net exports.|positive
+8|Foreign economic growth slowed due to the COVID-19-related slowdown in China and repercussions of Russia’s war against Ukraine.|negative
+9|Market-implied federal funds rate path for 2023 was little changed, while nominal Treasury yields were roughly unchanged.|neutral
+10|Equity prices fell sharply following the December FOMC statement but recovered over the remainder of the period.|positive
+11|Credit quality remained strong overall, although there were some signs of deterioration for consumer loans.|negative
+12|Banks reported having tightened C&I and CRE lending standards over the previous three months.|negative
+13|Credit availability for households with Credit quality remained strong overall, although there were some signs of deterioration.|negative
+14|Banks reported tighter standards for consumer loans, but total credit card balances increased at a solid pace in November and auto loans grew modestly.|positive
+15|The staff assessed that asset valuation pressures remained notable and vulnerabilities associated with household and business leverage remained moderate.|negative
+16|The staff forecasted real GDP growth to slow markedly this year and the labor market to soften.|negative
+17|Core PCE price inflation was expected to be 3.2 percent in 2023 and near 2 percent in 2025.|positive
+18|Participants noted that recent indicators pointed to modest growth in spending and production.|positive
+19|Participants discussed the current economic situation, noting that growth in economic activity had been below its longer-run trend and inflation remained unacceptably high.|negative
+20|They observed that cumulative policy firming had reduced demand in interest-rate sensitive sectors, such as housing, and that consumer spending had declined in November and December due to tight financial conditions.|negative
+21|Business fixed investment spending was being restrained by past interest rate increases and supply chain issues remained a challenge in some sectors.|negative
+22|The labor market remained very tight, with job vacancies remaining high and wage growth elevated.|positive
+23|Inflation was still well above the Committee's longer-run goal of 2%, and participants agreed that they had observed less evidence of a slowdown in the rate of increase of prices for core services excluding housing.|negative
+24|Participants at the meeting discussed the need to bring inflation down to achieve the Committee's objectives of maximum employment and price stability.|positive
+25|They noted that financial conditions had eased over the past few months, but uncertainty remained high.|negative
+26|They agreed that it was appropriate to raise the target range for the federal funds rate by 25 basis points at this meeting, and that further increases would be necessary to meet the Committee's goals.|positive
+27|They also discussed risk-management considerations related to the conduct of monetary policy, noting that slowing the pace of rate increases would allow for appropriate risk management.|positive
+28|At the January 31-February 1, 2023 meeting of the Federal Open Market Committee, members agreed to raise the target range for the federal funds rate to 4.5-4.75 percent in order to attain a stance of monetary policy that is sufficiently restrictive to return inflation to 2 percent over time.|positive
+29|The Committee also agreed to conduct overnight reverse repurchase agreement operations at an offering rate of 4.55 percent and with a per-counterparty limit of $160 billion per day, roll over at auction the amount of principal payments from the Federal Reserve’s holdings of Treasury securities maturing in each calendar month that exceeds a cap of $60 billion per month, reinvest into agency mortgage-backed securities (MBS) the amount of principal payments.|positive
