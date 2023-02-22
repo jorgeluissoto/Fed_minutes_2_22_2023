@@ -1,0 +1,22 @@
+Classify each sentence in the following text as neutral or hawkish. Return the hawkish sentences in JSON format:
+
+{
+    "response": [
+        {
+            "sentence_text": "Participants discussed the current economic situation, noting that growth in economic activity had been below its longer-run trend and inflation remained unacceptably high.",
+            "classification": "hawkish"
+        },
+        {
+            "sentence_text": "Inflation was still well above the Committee's longer-run goal of 2%, and participants agreed that they had observed less evidence of a slowdown in the rate of increase of prices for core services excluding housing.",
+            "classification": "hawkish"
+        },
+        {
+            "sentence_text": "Participants at the meeting discussed the need to bring inflation down to achieve the Committee's objectives of maximum employment and price stability.",
+            "classification": "hawkish"
+        },
+        {
+            "sentence_text": "At the January 31-February 1, 2023 meeting of the Federal Open Market Committee, members agreed to raise the target range for the federal funds rate to 4.5-4.75 percent in order to attain a stance of monetary policy that is sufficiently restrictive to return inflation to 2 percent over time.",
+            "classification": "hawkish"
+        }
+    ]
+}
